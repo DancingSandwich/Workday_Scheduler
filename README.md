@@ -26,7 +26,7 @@ There are not need to install anything. The webpage is going to be web hosted.
 
 ## Demo
 
-[Click here to view the project](https://dancingsandwich.github.io/PasswordGenerator/)
+[Click here to view the project](https://dancingsandwich.github.io/Workday_Scheduler/)
 
 ## Usage
 
@@ -66,10 +66,10 @@ SOFTWARE.
 
 ## Features
 
-- Generates hard to guess randomly generated passwords
-- Ability to chose length
-- Options to chose upper and lower cases
-- Selection of numbers and special characters in the password.
+- Calender is pre-selected with today's Date and Time
+- Shows standard business hours
+- User can enter new events and save them locally
+- Saved events are persist even after the page refresh
 
 ## How to Contribute
 
